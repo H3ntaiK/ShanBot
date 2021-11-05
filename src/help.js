@@ -1,7 +1,7 @@
 const help = (prefix) => {
 	return `
 
-⌜ _*Sawamur by King*_ ⌟  
+⌜ _*SawamuraBot by King*_ ⌟  
 
 ◉ *INFORMACION*
    ○ Comando: ⌜ ${prefix} ⌟
