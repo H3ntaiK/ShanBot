@@ -1,13 +1,11 @@
 const help = (prefix) => {
 	return `
 
-⌜ _*ShanBot by shanduy*_ ⌟  
+⌜ _*Sawamur by King*_ ⌟  
 
 ◉ *INFORMACION*
    ○ Comando: ⌜ ${prefix} ⌟
-   ○ Creador: shanduy™ 
-   ○ Como instalar el bot: https://www.youtube.com/watch?v=2LQSzEbpJ-M
-   ○ Instagram: https://www.instagram.com/thepavos
+   ○ Creador: King™ 
 
 ◉ *COMUNICADO*
 La función *kick ya esta en funcionamiento
@@ -103,10 +101,9 @@ Para usar estas funciones el bot necesita admin
 Para activar los NSFW coloque el siguiente comando ${prefix}nsfw 1 y para desactivar los NSFW coloque ${prefix}nsfw 0
 
 
-No te olvides de seguirme en instagram flaco ;)
 
 
-_*by shanduy*_
+_*by King*_
 
 
 ⌜ *ごきげんよう :)* ⌟ 
